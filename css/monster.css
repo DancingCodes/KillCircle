@@ -1,0 +1,6 @@
+.monster {
+    position: absolute;
+    top: 0;
+    border-radius: 50%;
+    border: 1px solid #ccc;
+}
